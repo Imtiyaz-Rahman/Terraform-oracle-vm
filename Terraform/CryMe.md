@@ -9,5 +9,6 @@ Overall intention was create the files but currently I am trying to collect deta
 Examples include:
 [Terraform in 100 secs](https://www.youtube.com/watch?v=tomUWcQ0P3k&t=5s)
 [Best Practice For Compute Instance Oracle](https://docs.oracle.com/en-us/iaas/Content/Compute/References/bestpracticescompute.htm#two)
+[Explains the credentials that are needed for terraform](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/identifiers.htm)
 
 With the research process I have also found out about [Compute Instance Repo](https://github.com/oracle-terraform-modules/terraform-oci-compute-instance/), this exist with the intention of making the infastrcuture process seemless
